@@ -9,6 +9,10 @@
     "Webworker",
     "Web worker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cleavera/webpack-webworker-loader"
+  },
   "author": "Anthony Cleaver",
   "license": "ISC",
   "devDependencies": {
