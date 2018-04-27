@@ -1,0 +1,19 @@
+{
+  "name": "webpack-webworker-loader",
+  "version": "1.0.0",
+  "description": "A simple webpack loader for webworkers",
+  "main": "src/index.js",
+  "keywords": [
+    "Webpack",
+    "Loader",
+    "Webworker",
+    "Web worker"
+  ],
+  "author": "Anthony Cleaver",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.0.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.8.3"
+  }
+}
